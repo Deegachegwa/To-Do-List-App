@@ -1,0 +1,21 @@
+container {
+    border-radius: 10px;
+    height: auto;
+    width: auto;
+}
+
+.spacer{
+    flex:right;
+}
+.custom-toolbar {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .spacer {
+    flex: 1;
+  }
+  
+  .right-items {
+    display: flex;
+  }
